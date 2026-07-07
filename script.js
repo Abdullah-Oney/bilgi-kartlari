@@ -124,7 +124,7 @@ const cards = [
 "35. Atalar Kültü: Ölen ataların ruhlarının ailesini koruduğuna inanılmasıdır.",
 "36. Şaman, Kam, Baksı: Din adamlarına verilen isimlerdir.",
 "37. Hayvan Üslubu: Hunların sanat eserlerinde kullandığı üsluptur.",
-"38. Pazırık Halısı: Dünyanın en eski halısıdır (Hunlara ait)."
+"38. Pazırık Halısı: Dünyanın en eski halısıdır (Hunlara ait).",
 "39. Altın Elbiseli Adam Zırhı: Hunlara (veya İskitlere) ait önemli bir buluntudur.",
 "40. İkili Teşkilat: Devletin doğu ve batı olarak yönetilmesidir.",
 "41. Yabgu: Batı kanadını yöneten hükümdar kardeşinin unvanıdır.",
